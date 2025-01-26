@@ -1,4 +1,6 @@
-  public static void main(String[] args) {
+import java.util.Arrays;
+public class JavaApplication31 {
+public static void main(String[] args) {
         
         // Question3- Array numbers
         double[] numbers = {2, 5, 5, 9, 4, 7, 0, 9, 6, 11, 12};
